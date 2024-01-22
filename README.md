@@ -21,4 +21,7 @@ The Facial Recognition App is a project aimed at recognizing faces of users usin
 - Install required packages:
 
   ```bash
-  pip install tensorflow kivy numpy cv2
+  pip install tensorflow  
+  pip install  kivy
+  pip install  numpy
+  pip install cv2
